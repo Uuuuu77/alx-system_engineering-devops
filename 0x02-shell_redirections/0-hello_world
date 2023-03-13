@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -print | wc -1 hello_world
+echo 'Hello, World'
