@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Bash script displays liness containing bash word.
+pgrep -l bash
