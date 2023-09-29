@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Bash script that displays own process ID.
+echo $$
+# echo $BASHPID
+# bash -c 'echo $PPID'
