@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# Creates an SSH key pair.
+# Name of the created private key is school.
+# Number of bits in the created key is 4096.
+# The created key is protected by the passphrase betty.
+
+ssh-keygen -t rsa -b 4096 -f school -N betty
