@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+sudo apt-get update -yq
+sudo apt-get install -yq nginx net-tools
+service nginx start
+echo
